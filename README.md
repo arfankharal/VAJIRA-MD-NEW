@@ -43,7 +43,7 @@
 
 </details>
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-NEW-fork)***
 
 ***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
@@ -55,7 +55,7 @@
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
 
-<a href="https://conservative-gates-vajiratech-87f8946f.koyeb.app/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+<a href="https://seesionid-59f4e1494799.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
 
 
 <hr>
